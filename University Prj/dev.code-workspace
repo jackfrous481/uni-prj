@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "D:/visual studio prj july/july2ndWeek"
+		},
+		{
+			"path": "../youtube prj"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../messenger prj"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "messenger prj"
+	}
+}
